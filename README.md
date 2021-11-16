@@ -1,5 +1,5 @@
-# ecoleta-service
-Backend - Ecoleta
+# climafacil-service
+Backend - Climafacil
 
 ## How to run this project?
 
